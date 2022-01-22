@@ -1,0 +1,4 @@
+Cannot generate into /Users/okkyun/Library/Mobile Documents/com~apple~CloudDocs/Tim/22-1/week2/hw2
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
